@@ -1,0 +1,47 @@
+[
+  {
+    "plazas": "1",
+    "direccionSalida": "Escolapi",
+    "telefono": "111111111"
+  },
+  {
+    "plazas": "2",
+    "direccionSalida": "JuanBosch",
+    "telefono": "222222222"
+  },
+  {
+    "plazas": "3",
+    "direccionSalida": "Meridiana",
+    "telefono": "333333333"
+  },
+  {
+    "plazas": "4",
+    "direccionSalida": "SantAndreu",
+    "telefono": "444444444"
+  },
+  {
+    "plazas": "5",
+    "direccionSalida": "Maquinista",
+    "telefono": "555555555"
+  },
+  {
+    "plazas": "6",
+    "direccionSalida": "PlazaEspaña",
+    "telefono": "666666666"
+  },
+  {
+    "plazas": "7",
+    "direccionSalida": "PlazaCataluña",
+    "telefono": "777777777"
+  },
+  {
+    "plazas": "8",
+    "direccionSalida": "PaseoDeGracia",
+    "telefono": "888888888"
+  },
+  {
+    "plazas": "9",
+    "direccionSalida": "PauClaris",
+    "telefono": "999999999"
+  }
+]

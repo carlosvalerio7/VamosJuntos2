@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name_alta_Coche">Registrar Coches</string>
+    <string name="app_name_Aniadirme">Bienvenido</string>
+    <string name="app_name_Main">Inicio</string>
+    <string name="app_name_alta_evento">Registrar Eventos</string>
+    <string name="app_name_detalle_coche">Datos Coche</string>
+    <string name="app_name_detalle_evento">Datos Evento</string>
+    <string name="app_name_lista_coches">Lista Coches</string>
+    <string name="app_name_lista_eventos">Lista Eventos</string>
+    <!--- ALTA COCHE -->
+    <string name="buttonEventosActivityMain">Eventos</string>
+
+    <!--- ALTA COCHE -->
+    <string name="buttonFotoCarnetAltaCoche">FOTO CARNET</string>
+    <string name="buttonFotoCocheAltaCoche">FOTO COCHE</string>
+    <string name="buttonRegistrarAltaCoche">REGISTRAR</string>
+
+    <!--- ALTA EVENTO -->
+    <string name="buttonRegistrarAltaEvento">REGISTRAR</string>
+    <string name="buttonFechaAltaEvento">FECHA</string>
+
+    <!--- DETALLE EVENTO -->
+    <string name="buttonCochesListaDetalleEvento">LISTA COCHES</string>
+    <string name="buttonNuevoCocheDetalleEvento">NUEVO COCHE</string>
+
+    <!--- DETALLE COCHE -->
+    <string name="buttonApuntarmeDetalleCoche">APUNTARME</string>
+
+    <!--- LISTADO EVENTO -->
+    <string name="edittextNuevoEventoListadoEventos">AÑADIR</string>
+    <string name="edittextBuscarEventoListadoEventos">Buscar evento</string>
+
+    <!--- LISTADO COCHE -->
+    <string name="edittextBuscarCocheListadoCoches">Buscar coche</string>
+    <!--- ANIADIRME-->
+    <string name="buttonListaEventosAniadirme">LISTA EVENTOS</string>
+
+</resources>
